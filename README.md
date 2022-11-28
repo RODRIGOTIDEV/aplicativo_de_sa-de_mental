@@ -1,4 +1,7 @@
-# mentalhelthapp
+# mentalhelth app
+
+![image](https://user-images.githubusercontent.com/47644147/204363125-4c99db65-aff9-4a06-9def-6acb604fc0aa.png)
+
 
 A new Flutter project.
 
